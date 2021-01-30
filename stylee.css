@@ -1,0 +1,16 @@
+#content {
+	background:#9bd4d0
+}
+img {
+    width: 350px;
+    height: 260px;
+    margin:10px
+}
+.container{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+.about {
+    margin-left:25px;
+    font-family: montez;}
